@@ -82,8 +82,6 @@ done
 
 ### Ваш скрипт:
 ```bash
-#!/usr/bin/env bash
-
 ip_arr=(192.168.0.1 173.194.222.113 87.250.250.24)
 state=0
 while (($state == 0))
